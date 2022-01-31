@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma.</h1>
 
+<br>
+
 ### A little more about me...  
 
 - 🌱 I’m currently learning **everything :P**
