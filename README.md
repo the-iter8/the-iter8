@@ -3,25 +3,20 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://architgarg603.github.io/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/">LinkedIn</a> - 
-  <a href="https://twitter.com/">Twitter</a></p>
+  <a href="#">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/ankit-sharma-561b291b0/">LinkedIn</a> - 
+  <a href="https://www.instagram.com/numismatic_tendencies/">Instagram</a></p>
 
 -----------------------------------------------------------
 
 ### A little more about me...  
 
-```javascript
-const ankitSharma = {
-  pronouns : "He" | "Him",
-  Languages: ["Python", "C++", "Javascript", "C"],
-  Frontend: ["HTML", "CSS", "React"],
-  Database: ["My SQL"],
-  Tools: ["GIT","GITHUB", "VS Code"],
-  Other: ["Automation", "Web Scrapping", "IC Programming"],
-  askMeAbout : ["web dev", "tech", "photography"]
-}
-```
+<h1 align="center">Hi 👋, I'm Ankit Sharma.</h1>
+
+- 🌱 I’m currently learning **everything :P**
+
+- 📫 Reach me out at - **https://www.linkedin.com/in/devesh-jain-b68b3119a/**
+
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-iter8&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-iter8&theme=github_dark"  />
