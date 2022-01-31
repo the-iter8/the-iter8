@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma.</h1>
 
-<br/>
-<br/>
-<br/>
+
 
 ### A little more about me...  
 
@@ -16,7 +14,6 @@
   <a href="https://www.linkedin.com/in/ankit-sharma-561b291b0/">LinkedIn</a> - 
   <a href="https://www.instagram.com/numismatic_tendencies/">Instagram</a></p>
 
------------------------------------------------------------
 
 
 <div align="center">
