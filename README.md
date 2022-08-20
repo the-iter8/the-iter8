@@ -5,7 +5,7 @@
 ### A little more about me...  
 
 - 🌱 I’m currently learning **everything :P**
-- 📫 Reach me out at - **https://www.linkedin.com/in/ankit-sharma-561b291b0/**
+- 📫 Reach me out at - **https://www.linkedin.com/in/the-iter8/**
 - Know more about me at - **https://iter8.netlify.app/**
 
 <!--- Adding Header Elements -->
